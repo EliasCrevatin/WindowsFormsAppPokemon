@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFAPokemon", "WFAPokemon\WFAPokemon.csproj", "{62F6ABFD-0FBF-433F-A504-426E6B0D970F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "domini0", "domini0\domini0.csproj", "{1A34A2FB-A894-4BFF-9451-A4F9B3530FD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{641C88BA-0CBD-4AD9-8627-5DD21E55B9EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F6ABFD-0FBF-433F-A504-426E6B0D970F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F6ABFD-0FBF-433F-A504-426E6B0D970F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F6ABFD-0FBF-433F-A504-426E6B0D970F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F6ABFD-0FBF-433F-A504-426E6B0D970F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A34A2FB-A894-4BFF-9451-A4F9B3530FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A34A2FB-A894-4BFF-9451-A4F9B3530FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A34A2FB-A894-4BFF-9451-A4F9B3530FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A34A2FB-A894-4BFF-9451-A4F9B3530FD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641C88BA-0CBD-4AD9-8627-5DD21E55B9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641C88BA-0CBD-4AD9-8627-5DD21E55B9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641C88BA-0CBD-4AD9-8627-5DD21E55B9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641C88BA-0CBD-4AD9-8627-5DD21E55B9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F28DAA-C4D6-453D-BD7F-16B2C5462DFA}
+	EndGlobalSection
+EndGlobal
